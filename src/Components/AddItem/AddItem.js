@@ -26,10 +26,8 @@ const AddItem = () => {
     };
 
     return (
-        <div>
-            
-            <div>
-                
+        <div>            
+            <div>             
                 <form className='d-flex flex-column w-50 mx-auto mt-3' onSubmit={handleSubmit(onSubmit)}>
                 <h1 className='mt-5   text-3xl font-bold'>Add New Item to Inventory</h1>
                     <input className='mt-2 p-1 border-primary' placeholder='Name' type="text" {...register("name")} required />
