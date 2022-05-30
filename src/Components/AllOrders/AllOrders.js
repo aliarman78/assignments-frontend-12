@@ -14,7 +14,6 @@ const AllOrders = () => {
         return <Spinner></Spinner>
     }
 
-
     return (
         <div className='flex flex-wrap'>
             {
