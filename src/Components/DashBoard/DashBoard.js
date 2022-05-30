@@ -23,7 +23,6 @@ const DashBoard = () => {
 
     return (
         <div>
-
             <div className='row'>
                 <div className='col-4'>
                     <ul className="navbar w navbar-nav d-flex flex-column align-items-start justify-content-start p-5">
@@ -78,7 +77,6 @@ const DashBoard = () => {
                                 :
                                 <></>
                         }
-
 
                     </ul>
                 </div>
