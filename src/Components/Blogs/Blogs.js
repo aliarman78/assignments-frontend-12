@@ -55,7 +55,6 @@ const Blogs = () => {
                 <h2>_You have an array of products. Each product has a name, price, description, etc.<br></br>How will you implement a search to find products by name?</h2>
                 <p style={{ maxWidth: '800px' }} className='text-justify p-2'>
                     let obj = arr.find(o => o.name === 'name');
-
                     console.log(obj);
                 </p>
                 <h2 className='text-2xl font-bold'>_What is a unit test? Why should write unit tests?</h2>
