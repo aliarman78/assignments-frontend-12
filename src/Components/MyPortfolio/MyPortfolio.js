@@ -2,8 +2,7 @@ import React from 'react';
 
 const MyPortfolio = () => {
     return (
-        <div>
-            
+        <div>            
             <div className='ms-5'>
             <div className='text-start mt-5 font-bold text-lg'>
                 <h1>Ali Arman Tushar</h1>
