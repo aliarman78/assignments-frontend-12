@@ -2,7 +2,7 @@
 
 ## [Live Website](https://last-assignment-28a07.web.app)
 
-### Deploy Link :
+### Deploy Link : https://last-assignment-28a07.web.app/
 
 ### Backend Code :
 
