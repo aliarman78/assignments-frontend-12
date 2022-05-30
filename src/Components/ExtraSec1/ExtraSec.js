@@ -6,7 +6,7 @@ const ExtraSec = () => {
         <div>
             <div className='row'>
                 <div className='col-sm-6 mt-5 mb-5'>
-                    <h1 className=' font-bold text-4xl text-center mb-3'>Follow up on Instagram</h1>
+                    <h1 className=' font-bold text-4xl text-center mb-3'>follow up on Instagram</h1>
                     <img className='img-fluid' src={insta} alt="insta" />
                 </div>
                 <div className='col-sm-6 mt-5 mb-5'>
