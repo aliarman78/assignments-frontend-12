@@ -26,14 +26,12 @@ const Bussiness = () => {
                     </div>
                     <div className="card mt-5" style={{ width: '18rem' }}>
 
-
                         <div className="card-body">
                             <h5 className="card-title"></h5>
                             <p className="card-text"><i className="fa-solid fa-screwdriver-wrench"></i><br></br><span className='h3'>50+ Tools</span></p>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     );
