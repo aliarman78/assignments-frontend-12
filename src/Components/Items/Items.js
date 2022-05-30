@@ -24,8 +24,7 @@ const Items = (props) => {
                         <p className='btn btn-primary mt-3 ms-4'>Price: {price}</p>
                     </div>
                     <p onClick={() => navigateToDetails(_id)} className='btn btn-secondary d-none'>Update</p>
-                    <p onClick={() => navigateToPurchase(_id)} className='btn btn-secondary ms-4'>Order now</p>
-                    
+                    <p onClick={() => navigateToPurchase(_id)} className='btn btn-secondary ms-4'>Order now</p>               
                     
                 </div>
             </div>
